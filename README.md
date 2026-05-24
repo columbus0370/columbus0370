@@ -1,16 +1,43 @@
-## Hi there 👋
+# Columbus | AI × エンジニア 業務改善ツール
 
-<!--
-**columbus0370/columbus0370** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👤 About me
 
-Here are some ideas to get you started:
+AI × エンジニア 
+Claude Code + AI導入支援で企業の業務改善を実装中
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**技術スタック**
+- Java（保守・改修年間 300+ commits）
+- Python（AI ツール開発）
+- React / Web フロント
+- Claude Code / AI 実装
+
+
+
+## 🚀 Services
+
+### AI 導入支援 × 実装
+中小企業の「こんなことできたら...」を AI で実現
+
+- **ヒアリング**：課題整理＆AI 活用診断
+- **実装**：Claude Code で素早くツール化
+- **運用サポート**：月額継続契約
+
+**初期費用**：30万円～ / **月額**：3万円～
+
+---
+
+## 📊 Stats
+
+- 🔧 Java 保守改修：年間 300+ commits
+- 🤖 Claude Code 活用：月 150時間削減
+- 📈 AI 導入支援：5社、平均工数 50% 削減
+
+---
+
+## 📬 Contact
+
+- **Twitter**：https://x.com/columbus0370
+- **Email**：columbus0370@gmail.com
+- **新規営業 メール 大歓迎**
+
+---
