@@ -1,3 +1,14 @@
+# Columbus | AI Chatbot Engineer
+
+I build and audit AI chatbots for small businesses.
+
+- **AI Chatbot Acceptance-Test Audit** — I test your chatbot with 25 real customer questions and deliver a scored fix report in 72 hours: [Work with me](https://scratched-monarch-8ee.notion.site/421f8301732581fc9795ddb48c6eeadb)
+- **Articles** — chatbot tool comparisons and build logs: [dev.to](https://dev.to/columbus0370)
+- **Tools & links**: [Link hub](https://scratched-monarch-8ee.notion.site/Columbus-AI-Chatbot-Engineer-421f830173258138ae48dadc6fad1dc4)
+- **Threads / Instagram**: @columbus.builds.ai
+
+---
+
 # Columbus | AI × エンジニア 業務改善ツール
 
 ## 👤 About me
